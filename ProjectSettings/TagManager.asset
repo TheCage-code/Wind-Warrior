@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Enemy
+  - Wall
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemies
+  - Ground
+  - Chest
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGrounds
+    uniqueID: 2310715317
+    locked: 0
+  - name: "MidGround(\xE7imen)"
+    uniqueID: 2694168317
+    locked: 0
+  - name: Ground
+    uniqueID: 1754182579
+    locked: 0
+  - name: Interactable
+    uniqueID: 2342386023
+    locked: 0
+  - name: Enemies
+    uniqueID: 2043993121
+    locked: 0
+  - name: Player
+    uniqueID: 464228743
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2889257393
+    locked: 0
+  - name: UI
+    uniqueID: 4196689507
+    locked: 0
+  m_RenderingLayers:
+  - Default
