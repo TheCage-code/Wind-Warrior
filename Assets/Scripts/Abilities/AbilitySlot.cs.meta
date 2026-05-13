@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b22724bf490454c46bdfb203be0db7e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ability: {instanceID: 0}
+  - cooldownSlider: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
