@@ -1,2 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Unity/C# Specific Language Detection Fix
+*.csproj linguist-detectable=false
+*.sln linguist-detectable=false
+*.meta linguist-detectable=false
+*.asset linguist-detectable=false
+*.unity linguist-detectable=false
+
+# Force documentation for some files to keep the language bar clean
+*.md linguist-documentation
